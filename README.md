@@ -1,4 +1,4 @@
-# Assembly Keylogger (Irvine32)
+# Assembly Based Keylogger
 
 This repository contains a basic keylogger written in x86 Assembly using the Irvine32 library. It demonstrates how keystrokes can be captured and stored using a low-level interrupt-based approach.
 
